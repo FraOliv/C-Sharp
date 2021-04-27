@@ -1,0 +1,16 @@
+/home/brolyno/C#/Loops/obj/Debug/net5.0/Loops.csprojAssemblyReference.cache
+/home/brolyno/C#/Loops/obj/Debug/net5.0/Loops.GeneratedMSBuildEditorConfig.editorconfig
+/home/brolyno/C#/Loops/obj/Debug/net5.0/Loops.AssemblyInfoInputs.cache
+/home/brolyno/C#/Loops/obj/Debug/net5.0/Loops.AssemblyInfo.cs
+/home/brolyno/C#/Loops/obj/Debug/net5.0/Loops.csproj.CoreCompileInputs.cache
+/home/brolyno/C#/Loops/bin/Debug/net5.0/Loops
+/home/brolyno/C#/Loops/bin/Debug/net5.0/Loops.deps.json
+/home/brolyno/C#/Loops/bin/Debug/net5.0/Loops.runtimeconfig.json
+/home/brolyno/C#/Loops/bin/Debug/net5.0/Loops.runtimeconfig.dev.json
+/home/brolyno/C#/Loops/bin/Debug/net5.0/Loops.dll
+/home/brolyno/C#/Loops/bin/Debug/net5.0/ref/Loops.dll
+/home/brolyno/C#/Loops/bin/Debug/net5.0/Loops.pdb
+/home/brolyno/C#/Loops/obj/Debug/net5.0/Loops.dll
+/home/brolyno/C#/Loops/obj/Debug/net5.0/ref/Loops.dll
+/home/brolyno/C#/Loops/obj/Debug/net5.0/Loops.pdb
+/home/brolyno/C#/Loops/obj/Debug/net5.0/Loops.genruntimeconfig.cache
