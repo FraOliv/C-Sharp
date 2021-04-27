@@ -1,0 +1,16 @@
+/home/brolyno/C#/Conversions/bin/Debug/net5.0/Conversions
+/home/brolyno/C#/Conversions/bin/Debug/net5.0/Conversions.deps.json
+/home/brolyno/C#/Conversions/bin/Debug/net5.0/Conversions.runtimeconfig.json
+/home/brolyno/C#/Conversions/bin/Debug/net5.0/Conversions.runtimeconfig.dev.json
+/home/brolyno/C#/Conversions/bin/Debug/net5.0/Conversions.dll
+/home/brolyno/C#/Conversions/bin/Debug/net5.0/ref/Conversions.dll
+/home/brolyno/C#/Conversions/bin/Debug/net5.0/Conversions.pdb
+/home/brolyno/C#/Conversions/obj/Debug/net5.0/Conversions.csprojAssemblyReference.cache
+/home/brolyno/C#/Conversions/obj/Debug/net5.0/Conversions.GeneratedMSBuildEditorConfig.editorconfig
+/home/brolyno/C#/Conversions/obj/Debug/net5.0/Conversions.AssemblyInfoInputs.cache
+/home/brolyno/C#/Conversions/obj/Debug/net5.0/Conversions.AssemblyInfo.cs
+/home/brolyno/C#/Conversions/obj/Debug/net5.0/Conversions.csproj.CoreCompileInputs.cache
+/home/brolyno/C#/Conversions/obj/Debug/net5.0/Conversions.dll
+/home/brolyno/C#/Conversions/obj/Debug/net5.0/ref/Conversions.dll
+/home/brolyno/C#/Conversions/obj/Debug/net5.0/Conversions.pdb
+/home/brolyno/C#/Conversions/obj/Debug/net5.0/Conversions.genruntimeconfig.cache
