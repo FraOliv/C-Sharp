@@ -1,0 +1,16 @@
+/home/brolyno/C#/IntegralTypes/bin/Debug/net5.0/IntegralTypes
+/home/brolyno/C#/IntegralTypes/bin/Debug/net5.0/IntegralTypes.deps.json
+/home/brolyno/C#/IntegralTypes/bin/Debug/net5.0/IntegralTypes.runtimeconfig.json
+/home/brolyno/C#/IntegralTypes/bin/Debug/net5.0/IntegralTypes.runtimeconfig.dev.json
+/home/brolyno/C#/IntegralTypes/bin/Debug/net5.0/IntegralTypes.dll
+/home/brolyno/C#/IntegralTypes/bin/Debug/net5.0/ref/IntegralTypes.dll
+/home/brolyno/C#/IntegralTypes/bin/Debug/net5.0/IntegralTypes.pdb
+/home/brolyno/C#/IntegralTypes/obj/Debug/net5.0/IntegralTypes.csprojAssemblyReference.cache
+/home/brolyno/C#/IntegralTypes/obj/Debug/net5.0/IntegralTypes.GeneratedMSBuildEditorConfig.editorconfig
+/home/brolyno/C#/IntegralTypes/obj/Debug/net5.0/IntegralTypes.AssemblyInfoInputs.cache
+/home/brolyno/C#/IntegralTypes/obj/Debug/net5.0/IntegralTypes.AssemblyInfo.cs
+/home/brolyno/C#/IntegralTypes/obj/Debug/net5.0/IntegralTypes.csproj.CoreCompileInputs.cache
+/home/brolyno/C#/IntegralTypes/obj/Debug/net5.0/IntegralTypes.dll
+/home/brolyno/C#/IntegralTypes/obj/Debug/net5.0/ref/IntegralTypes.dll
+/home/brolyno/C#/IntegralTypes/obj/Debug/net5.0/IntegralTypes.pdb
+/home/brolyno/C#/IntegralTypes/obj/Debug/net5.0/IntegralTypes.genruntimeconfig.cache

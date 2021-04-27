@@ -1,0 +1,16 @@
+/home/brolyno/C#/inizio/bin/Debug/net5.0/inizio
+/home/brolyno/C#/inizio/bin/Debug/net5.0/inizio.deps.json
+/home/brolyno/C#/inizio/bin/Debug/net5.0/inizio.runtimeconfig.json
+/home/brolyno/C#/inizio/bin/Debug/net5.0/inizio.runtimeconfig.dev.json
+/home/brolyno/C#/inizio/bin/Debug/net5.0/inizio.dll
+/home/brolyno/C#/inizio/bin/Debug/net5.0/ref/inizio.dll
+/home/brolyno/C#/inizio/bin/Debug/net5.0/inizio.pdb
+/home/brolyno/C#/inizio/obj/Debug/net5.0/inizio.csprojAssemblyReference.cache
+/home/brolyno/C#/inizio/obj/Debug/net5.0/inizio.GeneratedMSBuildEditorConfig.editorconfig
+/home/brolyno/C#/inizio/obj/Debug/net5.0/inizio.AssemblyInfoInputs.cache
+/home/brolyno/C#/inizio/obj/Debug/net5.0/inizio.AssemblyInfo.cs
+/home/brolyno/C#/inizio/obj/Debug/net5.0/inizio.csproj.CoreCompileInputs.cache
+/home/brolyno/C#/inizio/obj/Debug/net5.0/inizio.dll
+/home/brolyno/C#/inizio/obj/Debug/net5.0/ref/inizio.dll
+/home/brolyno/C#/inizio/obj/Debug/net5.0/inizio.pdb
+/home/brolyno/C#/inizio/obj/Debug/net5.0/inizio.genruntimeconfig.cache

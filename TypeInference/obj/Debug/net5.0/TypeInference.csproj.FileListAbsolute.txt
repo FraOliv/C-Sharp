@@ -1,0 +1,16 @@
+/home/brolyno/C#/TypeInference/bin/Debug/net5.0/TypeInference
+/home/brolyno/C#/TypeInference/bin/Debug/net5.0/TypeInference.deps.json
+/home/brolyno/C#/TypeInference/bin/Debug/net5.0/TypeInference.runtimeconfig.json
+/home/brolyno/C#/TypeInference/bin/Debug/net5.0/TypeInference.runtimeconfig.dev.json
+/home/brolyno/C#/TypeInference/bin/Debug/net5.0/TypeInference.dll
+/home/brolyno/C#/TypeInference/bin/Debug/net5.0/ref/TypeInference.dll
+/home/brolyno/C#/TypeInference/bin/Debug/net5.0/TypeInference.pdb
+/home/brolyno/C#/TypeInference/obj/Debug/net5.0/TypeInference.csprojAssemblyReference.cache
+/home/brolyno/C#/TypeInference/obj/Debug/net5.0/TypeInference.GeneratedMSBuildEditorConfig.editorconfig
+/home/brolyno/C#/TypeInference/obj/Debug/net5.0/TypeInference.AssemblyInfoInputs.cache
+/home/brolyno/C#/TypeInference/obj/Debug/net5.0/TypeInference.AssemblyInfo.cs
+/home/brolyno/C#/TypeInference/obj/Debug/net5.0/TypeInference.csproj.CoreCompileInputs.cache
+/home/brolyno/C#/TypeInference/obj/Debug/net5.0/TypeInference.dll
+/home/brolyno/C#/TypeInference/obj/Debug/net5.0/ref/TypeInference.dll
+/home/brolyno/C#/TypeInference/obj/Debug/net5.0/TypeInference.pdb
+/home/brolyno/C#/TypeInference/obj/Debug/net5.0/TypeInference.genruntimeconfig.cache
