@@ -1,0 +1,16 @@
+/home/brolyno/C#/Conditions/obj/Debug/net5.0/Conditions.csprojAssemblyReference.cache
+/home/brolyno/C#/Conditions/obj/Debug/net5.0/Conditions.GeneratedMSBuildEditorConfig.editorconfig
+/home/brolyno/C#/Conditions/obj/Debug/net5.0/Conditions.AssemblyInfoInputs.cache
+/home/brolyno/C#/Conditions/obj/Debug/net5.0/Conditions.AssemblyInfo.cs
+/home/brolyno/C#/Conditions/obj/Debug/net5.0/Conditions.csproj.CoreCompileInputs.cache
+/home/brolyno/C#/Conditions/bin/Debug/net5.0/Conditions
+/home/brolyno/C#/Conditions/bin/Debug/net5.0/Conditions.deps.json
+/home/brolyno/C#/Conditions/bin/Debug/net5.0/Conditions.runtimeconfig.json
+/home/brolyno/C#/Conditions/bin/Debug/net5.0/Conditions.runtimeconfig.dev.json
+/home/brolyno/C#/Conditions/bin/Debug/net5.0/Conditions.dll
+/home/brolyno/C#/Conditions/bin/Debug/net5.0/ref/Conditions.dll
+/home/brolyno/C#/Conditions/bin/Debug/net5.0/Conditions.pdb
+/home/brolyno/C#/Conditions/obj/Debug/net5.0/Conditions.dll
+/home/brolyno/C#/Conditions/obj/Debug/net5.0/ref/Conditions.dll
+/home/brolyno/C#/Conditions/obj/Debug/net5.0/Conditions.pdb
+/home/brolyno/C#/Conditions/obj/Debug/net5.0/Conditions.genruntimeconfig.cache
