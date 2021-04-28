@@ -1,0 +1,16 @@
+/home/brolyno/C#/Arrays/bin/Debug/net5.0/Arrays
+/home/brolyno/C#/Arrays/bin/Debug/net5.0/Arrays.deps.json
+/home/brolyno/C#/Arrays/bin/Debug/net5.0/Arrays.runtimeconfig.json
+/home/brolyno/C#/Arrays/bin/Debug/net5.0/Arrays.runtimeconfig.dev.json
+/home/brolyno/C#/Arrays/bin/Debug/net5.0/Arrays.dll
+/home/brolyno/C#/Arrays/bin/Debug/net5.0/ref/Arrays.dll
+/home/brolyno/C#/Arrays/bin/Debug/net5.0/Arrays.pdb
+/home/brolyno/C#/Arrays/obj/Debug/net5.0/Arrays.csprojAssemblyReference.cache
+/home/brolyno/C#/Arrays/obj/Debug/net5.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/brolyno/C#/Arrays/obj/Debug/net5.0/Arrays.AssemblyInfoInputs.cache
+/home/brolyno/C#/Arrays/obj/Debug/net5.0/Arrays.AssemblyInfo.cs
+/home/brolyno/C#/Arrays/obj/Debug/net5.0/Arrays.csproj.CoreCompileInputs.cache
+/home/brolyno/C#/Arrays/obj/Debug/net5.0/Arrays.dll
+/home/brolyno/C#/Arrays/obj/Debug/net5.0/ref/Arrays.dll
+/home/brolyno/C#/Arrays/obj/Debug/net5.0/Arrays.pdb
+/home/brolyno/C#/Arrays/obj/Debug/net5.0/Arrays.genruntimeconfig.cache
