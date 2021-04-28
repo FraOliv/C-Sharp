@@ -1,0 +1,16 @@
+/home/brolyno/C#/Methods/bin/Debug/net5.0/Methods
+/home/brolyno/C#/Methods/bin/Debug/net5.0/Methods.deps.json
+/home/brolyno/C#/Methods/bin/Debug/net5.0/Methods.runtimeconfig.json
+/home/brolyno/C#/Methods/bin/Debug/net5.0/Methods.runtimeconfig.dev.json
+/home/brolyno/C#/Methods/bin/Debug/net5.0/Methods.dll
+/home/brolyno/C#/Methods/bin/Debug/net5.0/ref/Methods.dll
+/home/brolyno/C#/Methods/bin/Debug/net5.0/Methods.pdb
+/home/brolyno/C#/Methods/obj/Debug/net5.0/Methods.csprojAssemblyReference.cache
+/home/brolyno/C#/Methods/obj/Debug/net5.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/brolyno/C#/Methods/obj/Debug/net5.0/Methods.AssemblyInfoInputs.cache
+/home/brolyno/C#/Methods/obj/Debug/net5.0/Methods.AssemblyInfo.cs
+/home/brolyno/C#/Methods/obj/Debug/net5.0/Methods.csproj.CoreCompileInputs.cache
+/home/brolyno/C#/Methods/obj/Debug/net5.0/Methods.dll
+/home/brolyno/C#/Methods/obj/Debug/net5.0/ref/Methods.dll
+/home/brolyno/C#/Methods/obj/Debug/net5.0/Methods.pdb
+/home/brolyno/C#/Methods/obj/Debug/net5.0/Methods.genruntimeconfig.cache
