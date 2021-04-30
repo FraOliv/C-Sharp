@@ -1,0 +1,16 @@
+/home/brolyno/C#/LibraryClassConstructor/obj/Debug/net5.0/LibraryClassConstructor.csprojAssemblyReference.cache
+/home/brolyno/C#/LibraryClassConstructor/obj/Debug/net5.0/LibraryClassConstructor.GeneratedMSBuildEditorConfig.editorconfig
+/home/brolyno/C#/LibraryClassConstructor/obj/Debug/net5.0/LibraryClassConstructor.AssemblyInfoInputs.cache
+/home/brolyno/C#/LibraryClassConstructor/obj/Debug/net5.0/LibraryClassConstructor.AssemblyInfo.cs
+/home/brolyno/C#/LibraryClassConstructor/obj/Debug/net5.0/LibraryClassConstructor.csproj.CoreCompileInputs.cache
+/home/brolyno/C#/LibraryClassConstructor/bin/Debug/net5.0/LibraryClassConstructor
+/home/brolyno/C#/LibraryClassConstructor/bin/Debug/net5.0/LibraryClassConstructor.deps.json
+/home/brolyno/C#/LibraryClassConstructor/bin/Debug/net5.0/LibraryClassConstructor.runtimeconfig.json
+/home/brolyno/C#/LibraryClassConstructor/bin/Debug/net5.0/LibraryClassConstructor.runtimeconfig.dev.json
+/home/brolyno/C#/LibraryClassConstructor/bin/Debug/net5.0/LibraryClassConstructor.dll
+/home/brolyno/C#/LibraryClassConstructor/bin/Debug/net5.0/ref/LibraryClassConstructor.dll
+/home/brolyno/C#/LibraryClassConstructor/bin/Debug/net5.0/LibraryClassConstructor.pdb
+/home/brolyno/C#/LibraryClassConstructor/obj/Debug/net5.0/LibraryClassConstructor.dll
+/home/brolyno/C#/LibraryClassConstructor/obj/Debug/net5.0/ref/LibraryClassConstructor.dll
+/home/brolyno/C#/LibraryClassConstructor/obj/Debug/net5.0/LibraryClassConstructor.pdb
+/home/brolyno/C#/LibraryClassConstructor/obj/Debug/net5.0/LibraryClassConstructor.genruntimeconfig.cache
